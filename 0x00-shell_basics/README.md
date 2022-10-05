@@ -1,18 +1,8 @@
-# 0x00 Shell Basics
-
-## Resources
-
-- LinuxCommand.org [What is "the Shell"?](http://linuxcommand.org/lc3_lts0010.php).
-- [Read the Manual](http://linuxcommand.org/lc3_man_pages/man1.html).
-- [Keyboard Shortcuts for Bash](https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/).
-
-## Tasks
-
-0. [Where am I?](./0-current_working_directory) : A script that prints the absolute path of the current working directory.
-1. [What's in there?](./1-listit) : A script that displays the contents of your current directory.
-2. [There is no place like home](./2-bring_me_home) : A script that changes the working directory to the user's home directory.
-3. [The long format](./3-listfiles) : A script that displays the current directory contents in a long format.
-4. [Hidden files](./4-listmorefiles) : A script that displays the current directory contents including hidden files.
+1. [Where am I?](./0-current_working_directory) : A script that prints the absolute path of the current working directory.
+2. [What's in there?](./1-listit) : A script that displays the contents of your current directory.
+3. [There is no place like home](./2-bring_me_home) : A script that changes the working directory to the user's home directory.
+4. [The long format](./3-listfiles) : A script that displays the current directory contents in a long format.
+5. [Hidden files](./4-listmorefiles) : A script that displays the current directory contents including hidden files.
 5. [I loce numbers](./5-listfilesdigitonly) : A script that displays the current directory contents, using long format, while displaying group IDs in numeral and show hidden files.
 6. [Welcome holberton](./6-firstdirectory) : A script that will create a directory named `holberton` in the `/tmp/` directory.
 7. [Betty in Holberton](./7-movethatfile) : A scipt that will move a file called `betty` from home to the new directory created above.
